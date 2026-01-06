@@ -151,16 +151,6 @@ This project helps you understand:
 
 ---
 
-## 🚀 Future Enhancements
-
-* GUI using Tkinter or Streamlit
-* Password-based authentication
-* Interest calculation
-* Loan management module
-* Admin dashboard
-* Web-based version
-
----
 
 ## 🤝 Contribution
 
